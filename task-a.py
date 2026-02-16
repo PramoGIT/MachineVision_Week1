@@ -36,7 +36,7 @@ plt.axis('off')
 
 plt.savefig('all_channels.png', dpi=300, bbox_inches='tight')
 
-plt.show()
+# plt.show()
 
 
 
